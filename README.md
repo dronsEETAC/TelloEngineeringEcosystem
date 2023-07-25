@@ -1,5 +1,6 @@
 # Tello Engineering Ecosystem   
-![DEE_software_architecture](https://user-images.githubusercontent.com/100842082/210042172-30ad75ee-cb05-49e4-8ceb-e1b33bb1b6ea.png)
+![Esquema](https://github.com/dronsEETAC/TelloEngineeringEcosystem/assets/100842082/19b3819f-8997-44bf-a8d3-1c89ff60645d)
+
 
 ## 1. General description
 
