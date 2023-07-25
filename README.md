@@ -11,5 +11,14 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 * *Tello Drone Circus*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneCircus-blue.svg)](https://github.com/dronsEETAC/DashboardDEE) a desktop application (Python + tkinter) that allows the user to interact with the drone in a fun way (for instance, guide the drone with body poses or with the voice).
 
-* *DashApp*:
-[![DroneEngineeringEcosystem Badge](https://img.shields.io/badge/DEE-DashApp-brightgreen.svg)](https://github.com/dronsEETAC/DashboardVueDEE) a web app (Vue) with similar functionalities that the Dashboard, but that can be operated from a laptop connected to internet.
+* *Tello Web App*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloWebApp-blue.svg)](https://github.com/dronsEETAC/DashboardVueDEE)  a web app (Vue + Ionic) to guide the drone, take pictures, videos, etc. Sends commands through the broker to the Tello Drone Server.
+
+* *Tello Drone Server*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneServer-blue.svg)](https://github.com/dronsEETAC/DashboardVueDEE)  a server in Python that receives commands from the Tello Web App and sends them to the drone.
+
+* *Swarm Web App*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-SwarmWebApp-blue.svg)](https://github.com/dronsEETAC/DashboardVueDEE)  a web app (Vue + Ionic) to guide a swarm of drones. Sends commands through the broker to the Tello Swarm Server.
+
+* *Tello Swarm Server*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloSwarmServer-blue.svg)](https://github.com/dronsEETAC/DashboardVueDEE)  a server in Python that receives commands from the Swarm Web App and sends them to the swarm of drones. 
