@@ -1,5 +1,6 @@
 # Tello Engineering Ecosystem   
-![Esquema](https://github.com/dronsEETAC/TelloEngineeringEcosystem/assets/100842082/19b3819f-8997-44bf-a8d3-1c89ff60645d)
+![Esquema_v2](https://github.com/dronsEETAC/TelloEngineeringEcosystem/assets/100842082/04e39eff-d09c-4242-8869-4448f4da43c2)
+
 
 
 ## 1. General description
@@ -10,11 +11,16 @@ Some of the modules communicate among them through MQTT brokers, using a publish
 The modules of the ecosystem are in development. Each of them has a repo in GitHub with the code and detailed information. This is a brief description of each module:
 
 * *Tello Drone Circus*:
-[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneCircus-blue.svg)](https://github.com/dronsEETAC/TelloDroneCircus) a desktop application (Python + tkinter) that allows the user to interact with the drone in a fun way (for instance, guide the drone with body poses or with the voice).
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneCircus-blue.svg)](https://github.com/dronsEETAC/TelloDroneCircus) a desktop application (Python + tkinter) that allows the user to interact with the drone in a fun way (for instance, guide the drone with body poses or with the voice
 
+* *Your Own Poses*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-YourOwnPoses-blue.svg)](https://github.com/dronsEETAC/YourOwnPoses)   a desktop application (Python + tkinter) that allows the user to define his own poses (hand and body) and guide the dron with these poses.
+
+    
 * *Tello Web App*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloWebApp-blue.svg)](https://github.com/dronsEETAC/TelloWebApp)  a web app (Vue + Ionic) to guide the drone, take pictures, videos, etc. Sends commands through the broker to the Tello Drone Server.
 
+    
 * *Tello Drone Server*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneServer-blue.svg)](https://github.com/dronsEETAC/TelloDroneServer)  a server in Python that receives commands from the Tello Web App and sends them to the drone.
 
