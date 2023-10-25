@@ -29,3 +29,15 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 
 * *Tello Swarm Server*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloSwarmServer-blue.svg)]  a server in Python that receives commands from the Swarm Web App and sends them to the swarm of drones. 
+
+## 2.Compilation of TFG and TFM projects   
+
+
+Title (and link)  | Author | Year 
+--- | --- | --- 
+[Manejo de un dron mediante poses (1)] (https://upcommons.upc.edu/handle/2117/395268)| SÁNCHEZ COZAR, DAVID | 2023| 
+Operaciones de enjambre en DEE | SÁNCHEZ ERASO, SERGIO | 2023| https://upcommons.upc.edu/handle/2117/395270
+Drone control and monitoring by means of a web application | SINGH ATWAL, JASKIRAT |  2023| https://upcommons.upc.edu/handle/2117/395271
+From Backend to DashMobile: Expanding the Horizons of the Drone Engineering Ecosystem | PINTO MORENO, ALEJANDRO SAMUEL |  2023| https://upcommons.upc.edu/handle/2117/394931  
+Contribución al Drone Engineering Ecosystem con Android Nativo | NUEZ ZARAGOZA, LAURA |  2023| https://upcommons.upc.edu/handle/2117/393653  
+Desenvolupament i integració de jocs i aplicacions web al Drone Engineering Ecosystem |  ORPELLA PALOMAR, JOANA |  2023| https://upcommons.upc.edu/handle/2117/393331 
