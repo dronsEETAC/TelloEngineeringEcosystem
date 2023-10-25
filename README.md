@@ -35,7 +35,7 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 
 Title (and link)  | Author | Year 
 --- | --- | --- 
-[Manejo de un dron mediante poses (1)] (https://upcommons.upc.edu/handle/2117/395268)| SÁNCHEZ COZAR, DAVID | 2023| 
+[Manejo de un dron mediante poses (1)](https://upcommons.upc.edu/handle/2117/395268)| SÁNCHEZ COZAR, DAVID | 2023| 
 Operaciones de enjambre en DEE | SÁNCHEZ ERASO, SERGIO | 2023| https://upcommons.upc.edu/handle/2117/395270
 [Example](https://www.youtube.com/watch?v=kuyCd53AOtg)    | SINGH ATWAL, JASKIRAT |  2023| https://upcommons.upc.edu/handle/2117/395271
 From Backend to DashMobile: Expanding the Horizons of the Drone Engineering Ecosystem | PINTO MORENO, ALEJANDRO SAMUEL |  2023| https://upcommons.upc.edu/handle/2117/394931  
