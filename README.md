@@ -35,9 +35,11 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 
 Title (and link)  | Author | Year 
 --- | --- | --- 
-[Manejo de un dron mediante poses (1)](https://upcommons.upc.edu/handle/2117/395268)| SÁNCHEZ COZAR, DAVID | 2023| 
-Operaciones de enjambre en DEE | SÁNCHEZ ERASO, SERGIO | 2023| https://upcommons.upc.edu/handle/2117/395270
-[Example](https://www.youtube.com/watch?v=kuyCd53AOtg)    | SINGH ATWAL, JASKIRAT |  2023| https://upcommons.upc.edu/handle/2117/395271
-From Backend to DashMobile: Expanding the Horizons of the Drone Engineering Ecosystem | PINTO MORENO, ALEJANDRO SAMUEL |  2023| https://upcommons.upc.edu/handle/2117/394931  
-Contribución al Drone Engineering Ecosystem con Android Nativo | NUEZ ZARAGOZA, LAURA |  2023| https://upcommons.upc.edu/handle/2117/393653  
-Desenvolupament i integració de jocs i aplicacions web al Drone Engineering Ecosystem |  ORPELLA PALOMAR, JOANA |  2023| https://upcommons.upc.edu/handle/2117/393331 
+[Manejo de un dron mediante poses (1)](https://upcommons.upc.edu/handle/2117/395268)| SÁNCHEZ COZAR, DAVID | 2023
+[Manejo de un dron mediante poses (2)](https://upcommons.upc.edu/handle/2117/395263)| GONZÁLEZ MIÑARRO, VÍCTOR | 2023
+[Aplicació Web pel control dels drons Tello](https://upcommons.upc.edu/handle/2117/394930)| MAS MARTÍNEZ, JAN  | 2023
+[Object Detection with Drone (Tello and TelloEDU)](https://upcommons.upc.edu/handle/2117/392046)| ABID, ABDUL WASIF | 2023
+[Guía para programar un circo de drones](https://upcommons.upc.edu/handle/2117/383485)| PALACIOS ACEVEDO, JONATAN GABRIEL  | 2023
+[Drone Colour object Tracking](https://upcommons.upc.edu/handle/2117/376279)| BOROUMAND, MILAD | 2022
+[Programación de un drone Tello EDU](https://upcommons.upc.edu/handle/2117/362149)| JAUME BUSQUETS, JAIME | 2022
+
