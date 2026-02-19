@@ -25,7 +25,7 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloDroneServer-blue.svg)](https://github.com/dronsEETAC/TelloDroneServer)  a server in Python that receives commands from the Tello Web App and sends them to the drone.
 
 * *Swarm Web App*:
-[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-SwarmWebApp-blue.svg)](https://github.com/dronsEETAC//WebApp_Tello_Swarmcd )  a web app (Vue + Ionic) to guide a swarm of drones.
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-SwarmWebApp-blue.svg)](https://github.com/dronsEETAC//WebApp_Tello_Swarm)  a web app (Vue + Ionic) to guide a swarm of drones.
 
 * *Tello Swarm Server*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloSwarmServer-blue.svg)](https://github.com/dronsEETAC/TelloDroneServer)  a server in Python that receives commands from the Swarm Web App and sends them to the swarm of drones.
