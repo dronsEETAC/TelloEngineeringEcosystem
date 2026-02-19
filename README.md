@@ -27,8 +27,8 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 * *Swarm Web App*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-SwarmWebApp-blue.svg)](https://github.com/dronsEETAC//WebApp_Tello_Swarm)  a web app (Vue + Ionic) to guide a swarm of drones.
 
-* *Tello Swarm Server*:
-[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-TelloSwarmServer-blue.svg)](https://github.com/dronsEETAC/TelloDroneServer)  a server in Python that receives commands from the Swarm Web App and sends them to the swarm of drones.
+* *WebApp para swarm con efectos de magia*:
+[![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-Another_SwarmWebApp-blue.svg)](https://github.com/dronsEETAC//telloSwarmMagia)  another web app (Vue + Ionic) to guide a swarm of drones.
 
 * *Tello Link*:
 [![TelloEngineeringEcosystem Badge](https://img.shields.io/badge/TEE-Tello_Link-blue.svg)](https://github.com/dronsEETAC/telloLink_David)  a library for Tello, build upon djitellopy, with the same programming model than dronLink.
