@@ -41,6 +41,7 @@ The modules of the ecosystem are in development. Each of them has a repo in GitH
 
 Title (and link)  | Author | Year 
 --- | --- | --- 
+[Diseño de la librería TelloLink para el uso del dron Tello y de una aplicación demostradora](https://upcommons.upc.edu/handle/x)| MIRÓ HERNÁNDEZ, DAVID | 2026
 [Prototipado de visión por computadora para la detección de objetos en drones autónomos](https://upcommons.upc.edu/handle/2117/411614)|  	PÉREZ CALDERÓN, ANTHONY DEMOSTENES | 2024
 [Aportación al Tello Engineering Ecosystem: enjambre de drones y efectos de magia](https://upcommons.upc.edu/handle/2117/414820)| MARTÍNEZ JIMÉNEZ, JUAN | 2024
 [Contribución al desarrollo del Drone Engineering Ecosystem (28)](https://upcommons.upc.edu/handle/2117/414358)| GALLARDO SERRA, ÀDAM | 2024
